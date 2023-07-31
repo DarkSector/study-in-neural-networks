@@ -9,3 +9,5 @@ I am a big dummy. I need to understand things visually and from scratch. That me
 ## Methodology
 
 Start from the basics. Understand hyperplanes, gradient descent, activation functions then slowly move up to Neural Networks (even basic stuff like Perceptrons). Eventually get to Attention and LLMs. 
+
+I am also pursuing a course on this through Udemy. It'll help speed things up
