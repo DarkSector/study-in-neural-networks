@@ -1,4 +1,4 @@
-# study-in-neural-networks
+# Study in Neural Networks
 My attempt to demystify neural networks in a journey of understanding LLMs
 
 ## Motivation
